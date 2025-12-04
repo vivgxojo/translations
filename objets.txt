@@ -1,0 +1,4 @@
+Triangle1: 0,0 2,0 1,3 Translation: 2,3
+Carre1: 1,1 1,4 4,4 4,1 Translation: -1,2
+Rectangle1: 0,0 0,2 3,2 3,0 Translation: 0,5
+Pentagone1: 2,1 3,3 4,2 3,0 2,0 Translation: 3,-1
